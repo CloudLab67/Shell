@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts ir updated
+Schell Scripts for reference and practice 
